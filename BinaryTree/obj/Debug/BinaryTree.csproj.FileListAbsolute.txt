@@ -1,0 +1,37 @@
+C:\Users\Administrator.WINDOWS-QR95BUE\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Administrator.WINDOWS-QR95BUE\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.WINDOWS-QR95BUE\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Administrator.WINDOWS-QR95BUE\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Administrator.WINDOWS-QR95BUE\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Administrator.WINDOWS-QR95BUE\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\Melissa\Documents\Teaching_Fall14\Data Structures\Week 12\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Melissa\Documents\Teaching_Fall14\Data Structures\Week 12\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Melissa\Documents\Teaching_Fall14\Data Structures\Week 12\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\Melissa\Documents\Teaching_Fall14\Data Structures\Week 12\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Melissa\Documents\Teaching_Fall14\Data Structures\Week 12\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Melissa\Documents\Teaching_Fall14\Data Structures\Week 12\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Melissa\Documents\Teaching_Fall14\Data Structures\Week 12\BinaryTree_Day2\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Melissa\Documents\Teaching_Fall14\Data Structures\Week 12\BinaryTree_Day2\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Melissa\Documents\Teaching_Fall14\Data Structures\Week 12\BinaryTree_Day2\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\Melissa\Documents\Teaching_Fall15\1197 Data Structures\Week 13\BinaryTree_StartWk13\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Melissa\Documents\Teaching_Fall15\1197 Data Structures\Week 13\BinaryTree_StartWk13\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Melissa\Documents\Teaching_Fall15\1197 Data Structures\Week 13\BinaryTree_StartWk13\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\Melissa\Documents\Teaching_Fall17\PROG1197 Data Structures\Week 10 (bst search, traversal)\BinaryTree_StartWk10\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Melissa\Documents\Teaching_Fall17\PROG1197 Data Structures\Week 10 (bst search, traversal)\BinaryTree_StartWk10\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Melissa\Documents\Teaching_Fall17\PROG1197 Data Structures\Week 10 (bst search, traversal)\BinaryTree_StartWk10\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\Melissa\Documents\Teaching_Fall17\PROG1197 Data Structures\Week 10 (bst search, traversal)\BinaryTree_StartWk10\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Melissa\Documents\Teaching_Fall17\PROG1197 Data Structures\Week 10 (bst search, traversal)\BinaryTree_StartWk10\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Melissa\Documents\Teaching_Fall17\PROG1197 Data Structures\Week 10 (bst search, traversal)\BinaryTree_StartWk10\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BinaryTree_StartWk10\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Administrator\Desktop\BinaryTree_StartWk10\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Administrator\Desktop\BinaryTree_StartWk10\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Administrator\Desktop\BinaryTree_StartWk10\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BinaryTree_StartWk10\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Administrator\Desktop\BinaryTree_StartWk10\BinaryTree\obj\Debug\BinaryTree.pdb
+F:\Advanced data structure\BinaryTreeComplete(1)\BinaryTree_StartWk10\BinaryTree\bin\Debug\BinaryTree.exe.config
+F:\Advanced data structure\BinaryTreeComplete(1)\BinaryTree_StartWk10\BinaryTree\bin\Debug\BinaryTree.exe
+F:\Advanced data structure\BinaryTreeComplete(1)\BinaryTree_StartWk10\BinaryTree\bin\Debug\BinaryTree.pdb
+F:\Advanced data structure\BinaryTreeComplete(1)\BinaryTree_StartWk10\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+F:\Advanced data structure\BinaryTreeComplete(1)\BinaryTree_StartWk10\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+F:\Advanced data structure\BinaryTreeComplete(1)\BinaryTree_StartWk10\BinaryTree\obj\Debug\BinaryTree.exe
+F:\Advanced data structure\BinaryTreeComplete(1)\BinaryTree_StartWk10\BinaryTree\obj\Debug\BinaryTree.pdb
